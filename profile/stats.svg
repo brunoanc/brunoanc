@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estad&#237;sticas de GitHub de Bruno Ancona, Rank: A-</title>
-        <desc id="descId">Estrellas totales: 244, Commits totales  (El año pasado) : 162, PRs totales: 111, Issues totales: 13, Contribuciones en (el año pasado): 8</desc>
+        <desc id="descId">Estrellas totales: 242, Commits totales  (El año pasado) : 162, PRs totales: 111, Issues totales: 13, Contribuciones en (el año pasado): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 94.04262272669044;
+        stroke-dashoffset: 94.14020893032446;
       }
     }
   
@@ -162,7 +162,7 @@
         x="269.01"
         y="12.5"
         data-testid="stars"
-      >244</text>
+      >242</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
